@@ -1,0 +1,26 @@
+{
+  "channel_name": "Loop Lab",
+  "niche": "Satisfying, hypnotic 3D loops: seamless procedural animations (ripple grids, flipping cubes, pendulum waves, spinning rings) for relaxing, focus and sleep",
+  "language": "en",
+  "video_source": "procedural",
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "loop_seconds": 10,
+    "samples": 32,
+    "target_minutes": 30,
+    "crf": 22
+  },
+  "ai": {
+    "gemini_model": "auto",
+    "critic_rounds": 2
+  },
+  "upload": {
+    "category_id": "24",
+    "publish_times_utc": [
+      "16:00"
+    ],
+    "made_for_kids": false
+  }
+}
