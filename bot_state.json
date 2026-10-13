@@ -1,5 +1,77 @@
 {
- "entries": [],
- "last_update_id": 488135917,
+ "entries": [
+  {
+   "id": "20261013-205609",
+   "created": "2026-10-13T20:56:09+00:00",
+   "status": "skipped",
+   "source": "Gemini (no live trend data)",
+   "title": "Why Is This Rhythm So Mesmerizing?",
+   "description": "Watch as these concentric ceramic and rose gold rings oscillate in a smooth harmonic wave. A mesmerizing kinetic loop designed to calm your mind.",
+   "tags": [
+    "satisfying loop",
+    "hypnotic 3d render",
+    "oddly satisfying",
+    "kinetic sculpture",
+    "3d animation",
+    "satisfying video",
+    "calming loop",
+    "relaxing 3d visual",
+    "seamless loop",
+    "satisfying motion",
+    "mesmerizing animation",
+    "shorts"
+   ],
+   "concept": "Tactile kinetic wave of interlocking ceramic and metallic rings",
+   "video_prompt": "A polished photorealistic 3D render centered in a vertical 9:16 frame. Concentric circular rings made of alternating brushed rose gold and matte sage green ceramic oscillate vertically in a continuous, perfectly symmetric harmonic wave. The rings glide smoothly along a vertical axis in a balanced sinusoidal ripple that looks identical played forwards or backwards. Soft cinematic studio lighting with subtle rim lights cast crisp metallic reflections and soft ambient occlusion shadows against a minimalist warm grey backdrop. Static centered camera, zero camera movement, pristine seamless loop, no text, no people, no cuts."
+  },
+  {
+   "id": "20261013-210701",
+   "created": "2026-10-13T21:07:01+00:00",
+   "status": "skipped",
+   "source": "Gemini (no live trend data)",
+   "title": "Can you match your breath to this loop?",
+   "description": "Watch this kinetic rose gold and frosted glass sculpture expand in a seamless, synchronized rhythm. Take a quiet moment to breathe, reset, and focus.",
+   "tags": [
+    "satisfying loops",
+    "kinetic sculpture",
+    "3d loop animation",
+    "hypnotic loop",
+    "satisfying 3d render",
+    "relaxing motion",
+    "mesmerizing animation",
+    "kinetic art",
+    "oddly satisfying",
+    "calm visual loop",
+    "soothing loop",
+    "mindfulness loop"
+   ],
+   "concept": "Hypnotic kinetic ring breathing sculpture for micro-meditation and focus",
+   "video_prompt": "A polished 3D kinetic sculpture centered in a vertical 9:16 frame against a clean dark slate background. The sculpture features concentric nested rings crafted from brushed rose gold and translucent frosted seafoam glass. Soft studio rim lighting highlights the matte and metallic textures. The rings smoothly expand outward and gently twist forty-five degrees in a synchronized, perfectly symmetric sine-wave pulse, then ease back inward to their exact starting positions, creating motion that appears completely natural both forward and in reverse. Static macro camera, flawless physics, no cuts, seamless continuous loop."
+  },
+  {
+   "id": "20261013-211328",
+   "created": "2026-10-13T21:13:28+00:00",
+   "status": "proposed",
+   "source": "Gemini (no live trend data)",
+   "title": "Could you watch this motion without blinking?",
+   "description": "Watch as frosted jade and gold petals expand and retract in a perfectly continuous rhythm. Take a moment to reset your focus with this seamless kinetic loop.",
+   "tags": [
+    "satisfying loop",
+    "3d animation",
+    "oddly satisfying",
+    "hypnotic loop",
+    "kinetic sculpture",
+    "satisfying 3d render",
+    "relaxing visuals",
+    "geometric art",
+    "calming loop",
+    "ambient motion",
+    "satisfying video"
+   ],
+   "concept": "Hypnotic geometric blooming kinetic sculpture designed for visual relaxation",
+   "video_prompt": "A polished photorealistic 3D render centered in a vertical 9:16 frame against a deep slate gray studio backdrop. The subject is an intricate kinetic sculpture composed of twelve overlapping petals made of frosted seafoam jade glass and brushed champagne gold. Soft directional studio lighting casts delicate highlights across the matte surfaces. The sculpture smoothly oscillates in a hypnotic breathing cycle, blooming outward and retracting inward in a rhythmic, harmonic sinusoidal motion that looks identical forward and backward. Completely static camera, flawless cyclical movement, perfectly symmetrical, no cuts, no text."
+  }
+ ],
+ "last_update_id": 488135928,
  "last_slot": ""
 }
