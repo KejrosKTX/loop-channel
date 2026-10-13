@@ -51,7 +51,7 @@
   {
    "id": "20261013-211328",
    "created": "2026-10-13T21:13:28+00:00",
-   "status": "proposed",
+   "status": "awaiting_clip",
    "source": "Gemini (no live trend data)",
    "title": "Could you watch this motion without blinking?",
    "description": "Watch as frosted jade and gold petals expand and retract in a perfectly continuous rhythm. Take a moment to reset your focus with this seamless kinetic loop.",
@@ -72,6 +72,6 @@
    "video_prompt": "A polished photorealistic 3D render centered in a vertical 9:16 frame against a deep slate gray studio backdrop. The subject is an intricate kinetic sculpture composed of twelve overlapping petals made of frosted seafoam jade glass and brushed champagne gold. Soft directional studio lighting casts delicate highlights across the matte surfaces. The sculpture smoothly oscillates in a hypnotic breathing cycle, blooming outward and retracting inward in a rhythmic, harmonic sinusoidal motion that looks identical forward and backward. Completely static camera, flawless cyclical movement, perfectly symmetrical, no cuts, no text."
   }
  ],
- "last_update_id": 488135928,
+ "last_update_id": 488135940,
  "last_slot": ""
 }
